@@ -15,7 +15,7 @@
 }
 .arrow{
     position: absolute;
-    display: none;
+    /* display: none; */
 }
 .arrow img{
     width: 50px;
